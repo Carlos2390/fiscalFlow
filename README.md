@@ -1,4 +1,4 @@
-# FiscalFlow - Sistema de Controle Simples
+<img width="325" height="75" alt="logo" src="https://github.com/user-attachments/assets/f507bc93-e37b-4ac5-904a-410bfba7bc60" />
 
 Sistema web para gestão de vendas, estoque e despesas de pequenos estabelecimentos comerciais.
 
@@ -175,3 +175,4 @@ O sistema extrai automaticamente itens de NFC-e da SEFAZ-SP:
 - **Gráficos**: Chart.js
 - **Ícones**: Font Awesome
 - **Parsing**: BeautifulSoup (para NFC-e)
+
